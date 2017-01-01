@@ -1,0 +1,15 @@
+C:\Projects\phonizer\phonizer\bin\Debug\phonizer.exe.config
+C:\Projects\phonizer\phonizer\bin\Debug\phonizer.exe
+C:\Projects\phonizer\phonizer\bin\Debug\phonizer.pdb
+C:\Projects\phonizer\phonizer\bin\Debug\MySql.Data.dll
+C:\Projects\phonizer\phonizer\obj\Debug\phonizer.csproj.GenerateResource.Cache
+C:\Projects\phonizer\phonizer\obj\Debug\phonizer.exe
+C:\Projects\phonizer\phonizer\obj\Debug\phonizer.pdb
+C:\Projects\phonizer\phonizer\bin\Debug\Dapper.dll
+C:\Projects\phonizer\phonizer\bin\Debug\Dapper.xml
+C:\Projects\phonizer\phonizer\obj\Debug\phonizer.Content.Strings.resources
+C:\Projects\phonizer\phonizer\obj\Debug\phonizer.Content.Queries.resources
+C:\Projects\phonizer\phonizer\obj\Debug\phonizer.Content.Configs.resources
+C:\Projects\phonizer\phonizer\obj\Debug\Phonizer.Forms.InfoForm.resources
+C:\Projects\phonizer\phonizer\obj\Debug\Phonizer.Forms.LoginForm.resources
+C:\Projects\phonizer\phonizer\obj\Debug\phonizer.csprojResolveAssemblyReference.cache
